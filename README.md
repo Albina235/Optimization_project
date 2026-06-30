@@ -6,7 +6,6 @@
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3.x-blue">
   <img alt="SciPy" src="https://img.shields.io/badge/Solver-SciPy%20HiGHS-orange">
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-green">
 </p>
 
 ---
